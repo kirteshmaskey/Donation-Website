@@ -916,7 +916,9 @@ body {
   }
 
   .footer-list,
-  .copyright { margin-inline: 0; }
+  .copyright { margin-inline: 0; 
+  text-align: center;
+  }
 
   .footer-list { margin-block-end: 0; }
 
